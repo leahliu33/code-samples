@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+# R
+.Rhistory
+.RData
+.Ruserdata
+# Jupyter
+.ipynb_checkpoints/
+# Python
+__pycache__/
+*.py[cod]
+# Office temp lock files
+~$*
+# Stata
+*.smcl
