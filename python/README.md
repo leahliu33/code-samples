@@ -1,8 +1,4 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
+
 
 # Python sample — Historical church directory → geocoded dataset
 
