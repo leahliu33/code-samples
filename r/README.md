@@ -1,8 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
 
 # R sample — Compulsory voting & vote choice (Brazil)
 
