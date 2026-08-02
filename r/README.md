@@ -10,6 +10,8 @@ estimate how *compulsory voting* affects turnout and vote choice, using
 a design that compares respondents just below and just above Brazil's
 compulsory-voting age cutoffs (17–18 vs. 69–70).
 
+Please see all the resulting tables in `CESOP_output.pdf` under the folder `output`.
+
 **What it shows:** end-to-end empirical analysis in R — combining survey
 datasets, constructing variables, difference-in-proportions tests, and a
 series of regression models with interaction terms and demographic
