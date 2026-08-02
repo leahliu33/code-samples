@@ -8,6 +8,8 @@ Google's mass digitization of library books affected physical borrowing,
 using a balanced panel of \~88,000 books (792,054 book-year
 observations).
 
+Please see the output pdf of the Stata code under the folder `output`.
+
 **What it shows:** a full analysis pipeline in a single, clearly
 sectioned do-file —
 
