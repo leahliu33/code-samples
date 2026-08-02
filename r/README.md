@@ -10,7 +10,9 @@ estimate how *compulsory voting* affects turnout and vote choice, using
 a design that compares respondents just below and just above Brazil's
 compulsory-voting age cutoffs (17–18 vs. 69–70).
 
-Please see all the resulting tables in `CESOP_output.pdf` under the folder `output`.
+The full results — tables with a short summary before each section — are in
+[`output/CESOP_output.md`](output/CESOP_output.md) (also provided as a PDF:
+[`output/CESOP_output.pdf`](output/CESOP_output.pdf)).
 
 **What it shows:** end-to-end empirical analysis in R — combining survey
 datasets, constructing variables, difference-in-proportions tests, and a
@@ -22,8 +24,5 @@ Source survey data and one project helper (`PermutationTest.R`) are not
 included, so the script is meant to be read rather than run. Paths are
 relative — point them at your own data directory to run. Written by me
 (Leah Liu) as part of a larger research project.
-
-**Example output:** `CESOP_output.pdf` shows the tables this script
-produces, with a short summary of the results before each section.
 
 Dependencies: `xtable`, `stargazer`, `estimatr`.
