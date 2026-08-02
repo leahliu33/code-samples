@@ -8,9 +8,7 @@ Google's mass digitization of library books affected physical borrowing,
 using a balanced panel of \~88,000 books (792,054 book-year
 observations).
 
-The full results — tables, a bar chart, and short write-ups — are in
-[`output/output.md`](output/output.md) (also provided as a PDF:
-[`output/output.pdf`](output/output.pdf)).
+The full result `Stata_output.pdf` is stored under `Ziqian_Liu_DDL_Application/code_samples/output` attached in the email. 
 
 **What it shows:** a full analysis pipeline in a single, clearly
 sectioned do-file —
