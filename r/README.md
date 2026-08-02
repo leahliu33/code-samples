@@ -26,4 +26,7 @@ included, so the script is meant to be read rather than run. Paths are
 relative — point them at your own data directory to run. Written by me
 (Leah Liu) as part of a larger research project.
 
+**Example output:** `CESOP_output.pdf` shows the tables this script
+produces, with a short summary of the results before each section.
+
 Dependencies: `xtable`, `stargazer`, `estimatr`.
