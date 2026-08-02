@@ -10,6 +10,8 @@ In this Jupyter Notebook, I turned the OCR'd *1942 Directory of Negro
 Baptist Churches* (HathiTrust) into a clean, geocoded, SMSA-matched
 dataset of \~7,300 churches.
 
+Clean output dataset `black_churches_vol2_smsa.csv` is stored under the folder `output`. 
+
 **What it shows:** text parsing from messy OCR, defensive cleaning
 against OCR errors, dataset construction, geocoding with Census →
 Nominatim fallbacks and a point-in-polygon state guardrail, and a
